@@ -730,10 +730,9 @@ body {
   @media (max-width: 767.98px) {
     .column__image-block {
       padding: 0;
-      justify-content: center;
-      display: flex;
-      margin-bottom: 17px;
-      padding: 10px; } }
+      margin-bottom: 30px;
+		height: auto;
+    } }
 
 .manage__img {
   max-width: 100%;
